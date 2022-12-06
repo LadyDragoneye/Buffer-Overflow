@@ -75,3 +75,5 @@ Launch attack
 ``./stack-L1``
 
 *The output should look like this, resulting in a root shell!*
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/71207177/205788807-ecb511d3-01fa-4ee8-92fb-788faf609172.png">
+
